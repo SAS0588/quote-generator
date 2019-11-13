@@ -1,0 +1,13 @@
+.mainContent{
+  background-color: #ffffff;
+  width: 750px;
+  height: 500px;
+  margin-left: -375px;
+  margin-top: -250px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.quoteContent{
+  font-family: "American Typewriter", monospace;
+}
